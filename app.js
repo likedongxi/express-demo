@@ -3,7 +3,7 @@ const app = express()
 function getStr()
 {
   str = "<h1>you know? </h1>\
-  <p>chinese nation is good. line1<br>Automatic build.</p>"
+  <p>chinese nation is good. line1<br>Automatic build.local</p>"
   return str;
 
 }
